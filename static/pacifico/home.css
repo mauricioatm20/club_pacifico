@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font: bold 26px Arial, Helvetica, sans-serif;
+  line-height: 100px;
+  color: whitesmoke;
+  text-transform: uppercase;
+}
+.fondo{
+    background: url("../img/FONDO2.1.jpg");
+    background-size: cover;
+    cursor: default;
+}
